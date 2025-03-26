@@ -1,36 +1,36 @@
-2025/03/25-22:36:28.043 97d Reusing MANIFEST /home/steven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/25-22:36:28.043 97d Recovering log #158
-2025/03/25-22:36:28.043 97d Reusing old log /home/steven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000158.log 
-2025/03/25-22:36:28.044 97d Delete type=2 #157
-2025/03/25-22:36:28.334 97e Level-0 table #163: started
-2025/03/25-22:36:28.336 97e Level-0 table #163: 578 bytes OK
-2025/03/25-22:36:28.339 97e Delete type=0 #158
-2025/03/25-22:36:28.339 97c Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at '\x00/\x00\x00\x05' @ 1026 : 1
-2025/03/25-22:36:28.339 97c Compacting 1@0 + 1@1 files
-2025/03/25-22:36:28.341 97c Generated table #164@0: 47 keys, 7311 bytes
-2025/03/25-22:36:28.341 97c Compacted 1@0 + 1@1 files => 7311 bytes
-2025/03/25-22:36:28.343 97c compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/25-22:36:28.343 97c Delete type=2 #163
-2025/03/25-22:36:28.343 97c Manual compaction at level-0 from '\x00/\x00\x00\x05' @ 1026 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/03/25-22:36:28.344 97c Level-0 table #166: started
-2025/03/25-22:36:28.345 97c Level-0 table #166: 567 bytes OK
-2025/03/25-22:36:28.347 97c Delete type=2 #160
-2025/03/25-22:36:28.347 97c Delete type=0 #162
-2025/03/25-22:36:28.348 97c Manual compaction at level-0 from '\x000\x00\x00\x00' @ 72057594037927935 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at '\x000\x00\x00\x05' @ 1043 : 1
-2025/03/25-22:36:28.348 97c Compacting 1@0 + 1@1 files
-2025/03/25-22:36:28.350 97c Generated table #167@0: 47 keys, 7311 bytes
-2025/03/25-22:36:28.350 97c Compacted 1@0 + 1@1 files => 7311 bytes
-2025/03/25-22:36:28.352 97c compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/25-22:36:28.352 97c Delete type=2 #166
-2025/03/25-22:36:28.352 97c Manual compaction at level-0 from '\x000\x00\x00\x05' @ 1043 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/03/26-09:26:26.700 97e Level-0 table #169: started
-2025/03/26-09:26:26.703 97e Level-0 table #169: 1242 bytes OK
-2025/03/26-09:26:26.706 97e Delete type=2 #164
-2025/03/26-09:26:26.706 97e Delete type=0 #165
-2025/03/26-09:26:26.707 97c Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at '\x001\x00\x00\x05' @ 1078 : 1
-2025/03/26-09:26:26.707 97c Compacting 1@0 + 1@1 files
-2025/03/26-09:26:26.712 97c Generated table #170@0: 48 keys, 7342 bytes
-2025/03/26-09:26:26.713 97c Compacted 1@0 + 1@1 files => 7342 bytes
-2025/03/26-09:26:26.715 97c compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/26-09:26:26.715 97c Delete type=2 #169
-2025/03/26-09:26:26.715 97c Manual compaction at level-0 from '\x001\x00\x00\x05' @ 1078 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/26-10:40:19.174 3557 Reusing MANIFEST /home/steven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/26-10:40:19.175 3557 Recovering log #179
+2025/03/26-10:40:19.175 3557 Reusing old log /home/steven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000179.log 
+2025/03/26-10:40:19.175 3557 Delete type=2 #178
+2025/03/26-10:40:19.603 3564 Level-0 table #184: started
+2025/03/26-10:40:19.606 3564 Level-0 table #184: 12171 bytes OK
+2025/03/26-10:40:19.609 3564 Delete type=0 #179
+2025/03/26-10:40:19.609 3558 Manual compaction at level-0 from '\x005\x00\x00\x00' @ 72057594037927935 : 1 .. '\x006\x00\x00\x00' @ 0 : 0; will stop at '\x005\x00\x00\x05' @ 1150 : 1
+2025/03/26-10:40:19.609 3558 Compacting 1@0 + 1@1 files
+2025/03/26-10:40:19.611 3558 Generated table #185@0: 49 keys, 7361 bytes
+2025/03/26-10:40:19.611 3558 Compacted 1@0 + 1@1 files => 7361 bytes
+2025/03/26-10:40:19.613 3558 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/26-10:40:19.613 3558 Delete type=2 #184
+2025/03/26-10:40:19.614 3558 Manual compaction at level-0 from '\x005\x00\x00\x05' @ 1150 : 1 .. '\x006\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/26-10:40:19.614 3558 Level-0 table #187: started
+2025/03/26-10:40:19.619 3558 Level-0 table #187: 567 bytes OK
+2025/03/26-10:40:19.621 3558 Delete type=0 #183
+2025/03/26-10:40:19.621 3558 Delete type=2 #181
+2025/03/26-10:40:19.623 3558 Manual compaction at level-0 from '\x006\x00\x00\x00' @ 72057594037927935 : 1 .. '\x007\x00\x00\x00' @ 0 : 0; will stop at '\x006\x00\x00\x05' @ 1179 : 1
+2025/03/26-10:40:19.623 3558 Compacting 1@0 + 1@1 files
+2025/03/26-10:40:19.625 3558 Generated table #188@0: 50 keys, 7369 bytes
+2025/03/26-10:40:19.625 3558 Compacted 1@0 + 1@1 files => 7369 bytes
+2025/03/26-10:40:19.627 3558 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/26-10:40:19.628 3558 Delete type=2 #187
+2025/03/26-10:40:19.628 3558 Manual compaction at level-0 from '\x006\x00\x00\x05' @ 1179 : 1 .. '\x007\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/26-10:41:14.864 3557 Level-0 table #190: started
+2025/03/26-10:41:14.871 3557 Level-0 table #190: 558 bytes OK
+2025/03/26-10:41:14.874 3557 Delete type=0 #186
+2025/03/26-10:41:14.874 3557 Delete type=2 #185
+2025/03/26-10:41:14.875 3557 Manual compaction at level-0 from '\x007\x00\x00\x00' @ 72057594037927935 : 1 .. '\x008\x00\x00\x00' @ 0 : 0; will stop at '\x007\x00\x00\x05' @ 1199 : 1
+2025/03/26-10:41:14.875 3557 Compacting 1@0 + 1@1 files
+2025/03/26-10:41:14.879 3557 Generated table #191@0: 51 keys, 7377 bytes
+2025/03/26-10:41:14.880 3557 Compacted 1@0 + 1@1 files => 7377 bytes
+2025/03/26-10:41:14.882 3557 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/26-10:41:14.882 3557 Delete type=2 #190
+2025/03/26-10:41:14.883 3557 Manual compaction at level-0 from '\x007\x00\x00\x05' @ 1199 : 1 .. '\x008\x00\x00\x00' @ 0 : 0; will stop at (end)
