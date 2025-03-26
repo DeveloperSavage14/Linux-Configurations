@@ -1,0 +1,91 @@
+{
+   "checksum": "12bdaa4ca5a0b5d1038c4f6e28312c4c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13387246956140628",
+            "date_last_used": "13387457123386536",
+            "guid": "87cde3c3-f22f-450b-b936-8faffcaa0265",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Classroom",
+            "type": "url",
+            "url": "https://classroom.google.com/u/1/"
+         }, {
+            "date_added": "13387247008449718",
+            "date_last_used": "13387415974002315",
+            "guid": "0ba4752b-d4eb-4373-ab65-4f7866b6571e",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Socs",
+            "type": "url",
+            "url": "https://www.socscms.com/SOCS/student2/"
+         }, {
+            "date_added": "13387247120208698",
+            "date_last_used": "13387457120590626",
+            "guid": "fbe07195-81dc-452c-83fb-768275308f17",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Outlook",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/"
+         }, {
+            "date_added": "13387247241326527",
+            "date_last_used": "13387378568000245",
+            "guid": "8766ce9f-b77b-4ee6-8979-0c6600e85c32",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gemini",
+            "type": "url",
+            "url": "https://gemini.google.com/app?hl=en-GB"
+         }, {
+            "date_added": "13387308721440953",
+            "date_last_used": "0",
+            "guid": "8fe6aa86-fdbd-454c-b37d-77ecc76712f8",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dr Frost Learning",
+            "type": "url",
+            "url": "https://www.drfrost.org/dashboard.php"
+         } ],
+         "date_added": "13387246894310105",
+         "date_last_used": "0",
+         "date_modified": "13387308721440953",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13387246894310108",
+         "date_last_used": "0",
+         "date_modified": "13387247016150758",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13387246894310111",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

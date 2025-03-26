@@ -1,0 +1,17 @@
+3/22/2025, 2:09:44 PM GMT 0: 
+
+----------------------------------------------
+3/22/2025, 2:09:45 PM GMT 1: Discord starting: {"releaseChannel":"stable","version":"0.0.88"}, modulepath: /home/steven/.config/discord/0.0.88/modules
+3/22/2025, 2:09:45 PM GMT 2: ✅ webContents.created web1 ""
+3/22/2025, 2:09:45 PM GMT 3: ✅ window.created win1 "discord"
+3/22/2025, 2:09:45 PM GMT 4: ✅ webContents.did-finish-load web1
+3/22/2025, 2:09:51 PM GMT 5: ✅ webContents.created web2 ""
+3/22/2025, 2:09:52 PM GMT 6: ✅ window.created win2 "Discord"
+3/22/2025, 2:09:56 PM GMT 7: ✅ webContents.did-finish-load web2
+3/22/2025, 2:09:56 PM GMT 8: window.close win1
+3/22/2025, 2:09:56 PM GMT 9: webContents.destroyed web1
+3/22/2025, 2:09:56 PM GMT 10: window.closed win1
+3/22/2025, 3:14:50 PM GMT 11: ✅ webContents.did-finish-load web2
+3/22/2025, 3:15:37 PM GMT 12: window.close win2
+3/22/2025, 4:17:58 PM GMT 13: before-quit
+3/22/2025, 4:17:58 PM GMT 14: window.close win2

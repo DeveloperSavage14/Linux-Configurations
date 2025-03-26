@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "73a0380e-6370-4cc8-a6da-6973b9e5f230",
+      "logo": {
+        "imageUrl": "7eeb002a-040b-4081-89d4-9fb1898c9c39.png",
+        "destinationUrl": "https://brave.com/leo/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-leo-launch&mtm_content=265e795b-86cc-45b2-9a0f-9f432b775571&mtm_date=20250326",
+        "alt": "Brave Leo - Leo, Brave's built-in AI. Ask questions, summarize pages, create new content, and more. Privately. - Get Started",
+        "companyName": "Brave Leo AI"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "9663b44c-f090-4365-b33f-2be4b2489ddb.jpg",
+          "creativeInstanceId": "265e795b-86cc-45b2-9a0f-9f432b775571",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "8516423b-cb0d-43b1-ab04-f09a90db5810.jpg",
+          "creativeInstanceId": "ee0321c0-9d22-4a36-9780-bed74cd90c0e",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "28dbc195-e3af-4c8b-9491-efc0b2c8514d.png",
+            "destinationUrl": "https://brave.com/leo/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-leo-launch&mtm_content=ee0321c0-9d22-4a36-9780-bed74cd90c0e&mtm_date=20250326",
+            "alt": "Brave Leo - Leo, Brave's built-in AI. Ask questions, summarize pages, create new content, and more. Privately. - Ask a question",
+            "companyName": "Brave Leo"
+          }
+        },
+        {
+          "imageUrl": "ee85ab48-a3a9-4990-938b-b95cd5fe07ca.jpg",
+          "creativeInstanceId": "c5bd7e34-0f3b-418f-8779-ceed759e5184",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "cf9c98a7-a6d1-4443-bf9b-ff8edf45bb80.png",
+            "destinationUrl": "https://brave.com/leo/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-leo-launch&mtm_content=c5bd7e34-0f3b-418f-8779-ceed759e5184&mtm_date=20250326",
+            "alt": "Brave Leo - Leo, Brave's built-in AI. Ask questions, summarize pages, create new content, and more. Privately. - Try Leo",
+            "companyName": "Brave Leo"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "73a0380e-6370-4cc8-a6da-6973b9e5f230",
+      "logo": {
+        "imageUrl": "7eeb002a-040b-4081-89d4-9fb1898c9c39.png",
+        "destinationUrl": "https://brave.com/leo/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-leo-launch&mtm_content=265e795b-86cc-45b2-9a0f-9f432b775571&mtm_date=20250326",
+        "alt": "Brave Leo - Leo, Brave's built-in AI. Ask questions, summarize pages, create new content, and more. Privately. - Get Started",
+        "companyName": "Brave Leo AI"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "9663b44c-f090-4365-b33f-2be4b2489ddb.jpg",
+          "creativeInstanceId": "265e795b-86cc-45b2-9a0f-9f432b775571",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "8516423b-cb0d-43b1-ab04-f09a90db5810.jpg",
+          "creativeInstanceId": "ee0321c0-9d22-4a36-9780-bed74cd90c0e",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "28dbc195-e3af-4c8b-9491-efc0b2c8514d.png",
+            "destinationUrl": "https://brave.com/leo/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-leo-launch&mtm_content=ee0321c0-9d22-4a36-9780-bed74cd90c0e&mtm_date=20250326",
+            "alt": "Brave Leo - Leo, Brave's built-in AI. Ask questions, summarize pages, create new content, and more. Privately. - Ask a question",
+            "companyName": "Brave Leo"
+          }
+        },
+        {
+          "imageUrl": "ee85ab48-a3a9-4990-938b-b95cd5fe07ca.jpg",
+          "creativeInstanceId": "c5bd7e34-0f3b-418f-8779-ceed759e5184",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "cf9c98a7-a6d1-4443-bf9b-ff8edf45bb80.png",
+            "destinationUrl": "https://brave.com/leo/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-leo-launch&mtm_content=c5bd7e34-0f3b-418f-8779-ceed759e5184&mtm_date=20250326",
+            "alt": "Brave Leo - Leo, Brave's built-in AI. Ask questions, summarize pages, create new content, and more. Privately. - Try Leo",
+            "companyName": "Brave Leo"
+          }
+        }
+      ]
+    }
+  ]
+}

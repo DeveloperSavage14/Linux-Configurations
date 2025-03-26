@@ -1,0 +1,14 @@
+2025/03/25-10:30:41.216 61c Reusing MANIFEST /home/steven/.config/BraveSoftware/Brave-Browser/Default/WebStorage/12/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/03/25-10:30:41.216 61c Recovering log #17
+2025/03/25-10:30:41.217 61c Reusing old log /home/steven/.config/BraveSoftware/Brave-Browser/Default/WebStorage/12/IndexedDB/indexeddb.leveldb/000017.log 
+2025/03/25-10:30:41.217 61c Delete type=2 #16
+2025/03/25-10:30:43.727 61a Level-0 table #22: started
+2025/03/25-10:30:43.732 61a Level-0 table #22: 118032 bytes OK
+2025/03/25-10:30:43.740 61a Delete type=0 #17
+2025/03/25-10:30:43.740 61a Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xa0\xef\x1d\xcd\yB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1226 : 1
+2025/03/25-10:30:43.740 61a Compacting 1@0 + 1@1 files
+2025/03/25-10:30:43.748 61a Generated table #23@0: 297 keys, 5492 bytes
+2025/03/25-10:30:43.749 61a Compacted 1@0 + 1@1 files => 5492 bytes
+2025/03/25-10:30:43.751 61a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/25-10:30:43.751 61a Delete type=2 #22
+2025/03/25-10:30:43.751 61a Manual compaction at level-0 from '\x00\x0a\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xa0\xef\x1d\xcd\yB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1226 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
